@@ -3,6 +3,7 @@
 sudo su
 yum install httpd php
 yum install gcc glibc glibc-common
+yum install perl -y
 yum install gd gd-devel
 
 adduser -m nagios
