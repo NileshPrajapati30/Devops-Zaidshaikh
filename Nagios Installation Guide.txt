@@ -16,7 +16,7 @@ usermod -a -G nagioscmd apache
 mkdir ~/downloads
 cd ~/downloads
 
-wget http://prdownloads.sourceforge.net/sourceforge/nagios/nagios-4.0.8.tar.gz
+wget http://prdownloads.sourceforge.net/sourceforge/nagios/nagios-4.4.6.tar.gz
 wget  http://nagios-plugins.org/download/nagios-plugins-2.0.3.tar.gz
 
 tar zxvf nagios-4.0.8.tar.gz
